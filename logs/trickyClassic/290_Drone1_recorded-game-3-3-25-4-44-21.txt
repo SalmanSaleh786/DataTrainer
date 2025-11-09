@@ -1,0 +1,3 @@
+Element 1: (0, (10, 11), ['.', '.', '%', '.'], [(3, 1), (4, 6), (13, 7)], [False, False, True, False], 98, False, [True, True, False, True], 0, 'East', (11, 11))
+Element 2: (0, (11, 11), ['', '%', '%', '.'], [(3, 2), (5, 6), (13, 8)], [False, True, True, False], 96, False, [False, False, False, True], 1029, 'East', (12, 11))
+Element 3: #1#

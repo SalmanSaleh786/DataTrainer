@@ -1,0 +1,4 @@
+Element 1: (0, (13, 9), ['%', '.', '.', '%'], [(6, 3), (6, 5), (12, 1)], [True, False, False, True], 98, False, [False, True, True, False], 0, 'North', (13, 10))
+Element 2: (0, (13, 10), ['F', '', '%', '%'], [(6, 4), (7, 5), (11, 1)], [False, False, True, True], 96, False, [False, False, False, False], 2019, 'West', (12, 10))
+Element 3: (0, (12, 10), ['F', '%', '%', ''], [(7, 4), (6, 5), (11, 2)], [False, True, True, False], 94, False, [False, False, False, False], 3038, 'West', (11, 10))
+Element 4: #1#

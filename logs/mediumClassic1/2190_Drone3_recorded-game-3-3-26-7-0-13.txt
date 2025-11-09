@@ -1,0 +1,13 @@
+Element 1: (2, (12, 3), ['F', '%', '.', '.'], [(14, 8), (11, 1), (15, 5)], [False, True, False, False], 98, False, [False, False, True, True], 19, 'West', (11, 3))
+Element 2: (2, (11, 3), ['F', '%', 'F', ''], [(15, 8), (12, 1), (15, 6)], [False, True, False, False], 96, False, [False, False, False, False], 1048, 'North', (11, 4))
+Element 3: (2, (11, 4), ['F', '', 'F', '.'], [(15, 9), (13, 1), (15, 7)], [False, False, False, False], 94, False, [False, False, False, True], 2077, 'North', (11, 5))
+Element 4: (2, (11, 5), ['F', '', 'F', '.'], [(14, 9), (14, 1), (14, 7)], [False, False, False, False], 92, False, [False, False, False, True], 3106, 'North', (11, 6))
+Element 5: (2, (11, 6), ['F', '', 'F', '.'], [(13, 9), (13, 1), (14, 6)], [False, False, False, False], 90, False, [False, False, False, True], 4125, 'North', (11, 7))
+Element 6: (2, (11, 7), ['F', '', 'F', '.'], [(12, 9), (13, 2), (14, 5)], [False, False, False, False], 88, False, [False, False, False, True], 5154, 'North', (11, 8))
+Element 7: (2, (11, 8), ['F', '', 'G', '.'], [(11, 9), (13, 3), (14, 4)], [False, False, False, False], 86, False, [False, False, False, True], 7173, 'West', (10, 8))
+Element 8: (2, (10, 8), ['.', 'F', 'G', ''], [(10, 9), (14, 3), (15, 4)], [False, False, False, False], 84, False, [True, False, False, False], 9192, 'South', (10, 7))
+Element 9: (2, (10, 7), ['.', 'F', '', ''], [(9, 9), (14, 4), (15, 3)], [False, False, False, False], 82, False, [True, False, False, False], 10211, 'South', (10, 6))
+Element 10: (2, (10, 6), ['.', 'F', '', ''], [(9, 8), (13, 4), (15, 2)], [False, False, False, False], 80, False, [True, False, False, False], 11240, 'South', (10, 5))
+Element 11: (2, (10, 5), ['.', 'F', '', ''], [(9, 7), (13, 5), (15, 3)], [False, False, False, False], 78, False, [True, False, False, False], 12259, 'South', (10, 4))
+Element 12: (2, (10, 4), ['.', 'F', '', ''], [(9, 6), (13, 6), (14, 3)], [False, False, False, False], 76, False, [True, False, False, False], 13278, 'South', (10, 3))
+Element 13: #1#

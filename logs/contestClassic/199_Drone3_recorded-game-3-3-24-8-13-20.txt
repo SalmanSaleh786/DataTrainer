@@ -1,0 +1,6 @@
+Element 1: (2, (12, 4), ['F', '.', '.', '.'], [(9, 7), (8, 6), (13, 2)], [False, False, False, False], 98, False, [False, True, True, True], 19, 'West', (11, 4))
+Element 2: (2, (11, 4), ['F', '.', '.', ''], [(10, 7), (9, 6), (13, 3)], [False, False, False, False], 96, False, [False, True, True, False], 1048, 'West', (10, 4))
+Element 3: (2, (10, 4), ['.', '.', '.', ''], [(10, 8), (10, 6), (14, 3)], [False, False, False, False], 94, False, [True, True, True, False], 3067, 'North', (10, 5))
+Element 4: (2, (10, 5), ['.', '', '', '.'], [(11, 8), (11, 6), (15, 3)], [False, False, False, False], 92, False, [True, False, False, True], 4096, 'East', (11, 5))
+Element 5: (2, (11, 5), ['', '', '', '.'], [(11, 9), (12, 6), (15, 4)], [False, False, False, False], 90, False, [False, False, False, True], 5125, 'East', (12, 5))
+Element 6: #1#

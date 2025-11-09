@@ -1,0 +1,11 @@
+Element 1: (1, (4, 1), ['.', '%', '.', '%'], [(11, 9), (5, 8), (14, 7)], [False, True, False, True], 98, False, [True, False, True, False], 999, 'North', (4, 2))
+Element 2: (1, (4, 2), ['%', '', '.', '%'], [(11, 8), (6, 8), (15, 7)], [True, False, False, True], 96, False, [False, False, True, False], 2028, 'North', (4, 3))
+Element 3: (1, (4, 3), ['.', '', '.', '.'], [(10, 8), (7, 8), (15, 8)], [False, False, False, False], 94, False, [True, False, True, True], 3057, 'East', (5, 3))
+Element 4: (1, (5, 3), ['', '%', '.', '.'], [(10, 9), (8, 8), (15, 9)], [False, True, False, False], 92, False, [False, False, True, True], 4086, 'East', (6, 3))
+Element 5: (1, (6, 3), ['', '.', '.', '.'], [(9, 9), (9, 8), (14, 9)], [False, False, False, False], 90, False, [False, True, True, True], 4125, 'East', (7, 3))
+Element 6: (1, (7, 3), ['', '.', '.', '.'], [(8, 9), (9, 7), (14, 8)], [False, False, False, False], 88, False, [False, True, True, True], 4164, 'East', (8, 3))
+Element 7: (1, (8, 3), ['', '.', '.', '.'], [(7, 9), (10, 7), (13, 8)], [False, False, False, False], 86, False, [False, True, True, True], 4203, 'East', (9, 3))
+Element 8: (1, (9, 3), ['', '.', '.', '.'], [(6, 9), (11, 7), (13, 9)], [False, False, False, False], 84, False, [False, True, True, True], 4242, 'East', (10, 3))
+Element 9: (1, (10, 3), ['', '.', 'F', '.'], [(5, 9), (12, 7), (12, 9)], [False, False, False, False], 82, False, [False, True, False, True], 4271, 'North', (10, 4))
+Element 10: (1, (10, 4), ['.', '', '.', 'F'], [(4, 9), (13, 7), (12, 8)], [False, False, False, False], 80, False, [True, False, True, False], 5300, 'East', (11, 4))
+Element 11: #1#
